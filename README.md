@@ -47,14 +47,6 @@ To grow as a Full Stack Web Engineer and create modern, useful web applications 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnadiaa&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
