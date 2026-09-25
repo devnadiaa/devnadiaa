@@ -2,7 +2,7 @@
 
 ### AI-Driven Full Stack Web Engineer in Training
 
-I'm passionate about building modern, responsive, and user-friendly web applications. Currently, I'm developing my skills in full-stack web development while exploring AI-powered solutions.
+I'm passionate about building modern, responsive, and user-friendly web applications. Currently, I'm developing my skills in full-stack web development and exploring AI-powered solutions.
 
 ---
 
@@ -15,8 +15,13 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ### 🎨 Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
+
+### 💻 Other Skills
+
+* Graphic Design
+* Basic Computer Skills
 
 ---
 
@@ -34,9 +39,11 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 * Turning ideas into real web applications
 * Combining development with creative design
 
-### 🎯 2026 Goal
+---
 
-To grow as a Full Stack Web Engineer and build meaningful, modern web applications while continuously improving my development and design skills.
+### 🎯 My Goal
+
+To grow as a Full Stack Web Engineer and create modern, useful web applications while continuously improving my development and design skills.
 
 ---
 
