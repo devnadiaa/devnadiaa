@@ -1,60 +1,38 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" />
-</p>
+# Hi, I'm Nadia Akter 👋
+
+### AI-Driven Full Stack Web Engineer in Training
+
+I'm passionate about building modern, responsive, and user-friendly web applications. Currently, I'm developing my skills in full-stack web development and exploring AI-powered solutions.
 
 ---
 
-<p align="center">
-  <em>Building modern, responsive, and user-friendly web applications while exploring AI-powered solutions.</em>
-</p>
-
----
-
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github" />
 </p>
 
----
-
-## 🎨 Design Tools
+### 🎨 Design Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
----
-
-## 💻 Other Skills
+### 💻 Other Skills
 
 * Graphic Design
 * Basic Computer Skills
 
 ---
 
-## 🚀 Featured Projects
-
-### 💻 dev-stack
-
-[**View Repository →**](https://github.com/devnadiaa/dev-stack)
-
-### 🏋️ fit-log
-
-[**View Repository →**](https://github.com/devnadiaa/fit-log)
-
----
-
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 * Full Stack Web Development
 * Next.js & TypeScript
 * Backend Development
 * AI-powered Web Applications
 
----
-
-## 💡 What I Enjoy
+### 💡 What I Enjoy
 
 * Building clean and responsive interfaces
 * Learning new technologies
@@ -63,13 +41,20 @@
 
 ---
 
-## 🎯 My Goal
+### 🎯 My Goal
 
 To grow as a Full Stack Web Engineer and create modern, useful web applications while continuously improving my development and design skills.
 
 ---
 
-## 🤝 Let's Connect
+### 🚀 Featured Projects
+
+- [**dev-stack**](https://github.com/devnadiaa/dev-stack)
+- [**fit-log**](https://github.com/devnadiaa/fit-log)
+
+---
+
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://github.com/devnadiaa">
