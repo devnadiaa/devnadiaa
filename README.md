@@ -49,6 +49,9 @@ To grow as a Full Stack Web Engineer and create modern, useful web applications 
 
 ### 🚀 Featured Projects
 
+- [**dev-stack**](https://github.com/devnadiaa/dev-stack)
+- [**fit-log**](https://github.com/devnadiaa/fit-log)
+
 ---
 
 ### 🤝 Let's Connect
