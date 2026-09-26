@@ -49,8 +49,8 @@ To grow as a Full Stack Web Engineer and create modern, useful web applications 
 
 ### 🚀 Featured Projects
 
-- [**dev-stack**](https://github.com/devnadiaa/dev-stack)
-- [**fit-log**](https://github.com/devnadiaa/fit-log)
+* [**dev-stack**](https://github.com/devnadiaa/dev-stack) — [Live Demo](https://keen-seahorse-77bc45.netlify.app/)
+* [**fit-log**](https://github.com/devnadiaa/fit-log) — [Live Demo](https://fit-log-inky.vercel.app/)
 
 ---
 
