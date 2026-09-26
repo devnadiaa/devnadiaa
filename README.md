@@ -47,6 +47,10 @@ To grow as a Full Stack Web Engineer and create modern, useful web applications 
 
 ---
 
+### 🚀 Featured Projects
+
+---
+
 ### 🤝 Let's Connect
 
 <p align="left">
