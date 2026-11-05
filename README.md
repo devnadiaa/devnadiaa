@@ -176,11 +176,11 @@ A curated collection of useful developer tools, technologies, and resources.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devnadiaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=devnadiaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devnadiaa&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=devnadiaa&theme=tokyonight&hide_border=true" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnadiaa&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devnadiaa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -209,9 +209,13 @@ A curated collection of useful developer tools, technologies, and resources.
 <a href="https://nadia-portfolio-omega.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+<a href="mailto:nadia36901haider@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
+
