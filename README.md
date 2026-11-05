@@ -170,19 +170,7 @@ A curated collection of useful developer tools, technologies, and resources.
 
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=devnadiaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=devnadiaa&theme=tokyonight&hide_border=true" />
-
-<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devnadiaa&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
